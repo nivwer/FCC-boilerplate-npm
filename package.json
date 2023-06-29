@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "nivwer",
+	"version": "1.0.0",
 	"description": "A project for FCC using npm",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"license": "MIT",
