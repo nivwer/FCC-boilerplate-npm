@@ -1,2 +1,6 @@
 # Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+
+Backend Challenges for FCC using NPM.
+
+<p>Boilerplate by  <a href="https://www.freecodecamp.org/">freeCodeCamp.org</a></p>
+<p>Solution by <a href="https://github.com/nivwer">nivwer</a></p>
